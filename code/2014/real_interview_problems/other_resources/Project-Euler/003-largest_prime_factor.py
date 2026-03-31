@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Copyright (c) Marina von Steinkirch
 #!/usr/bin/python3
 
 def is_prime(n):

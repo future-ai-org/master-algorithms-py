@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Marina von Steinkirch
 
 # copy of the class ../Stack.py
 

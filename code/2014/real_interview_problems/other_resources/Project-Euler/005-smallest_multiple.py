@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Copyright (c) Marina von Steinkirch
 
 def smallest_multiple(n):
     set1 = set([x for x in range(1, n+1)])

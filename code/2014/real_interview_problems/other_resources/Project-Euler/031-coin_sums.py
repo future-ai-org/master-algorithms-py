@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Copyright (c) Marina von Steinkirch
 # mari wahl @2014
 # marina.w4hl at gmail
 '''

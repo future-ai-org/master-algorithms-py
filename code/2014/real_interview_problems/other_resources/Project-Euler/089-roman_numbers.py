@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Copyright (c) Marina von Steinkirch
 
 __author__ = "Mari Wahl"
 __email__ = "marina.w4hl@gmail.com"

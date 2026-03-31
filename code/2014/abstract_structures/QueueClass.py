@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (c) Marina von Steinkirch
 # Time: 5 min
 
 __author__ = "bt3"

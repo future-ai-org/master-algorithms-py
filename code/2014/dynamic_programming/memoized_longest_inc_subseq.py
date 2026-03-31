@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Copyright (c) Marina von Steinkirch
 
 __author__ = "bt3"
 

@@ -1,4 +1,5 @@
 #!/bin/python
+# Copyright (c) Marina von Steinkirch
 #
 # An example of Python Decorator
 #

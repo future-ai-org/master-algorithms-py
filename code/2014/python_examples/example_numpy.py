@@ -1,3 +1,4 @@
+# Copyright (c) Marina von Steinkirch
 
 #!/usr/bin/env python
 
