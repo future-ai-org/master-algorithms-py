@@ -5,10 +5,10 @@
 
 class Node:
 
-   def __init__(self, value):
+   def __init__(self, value, next=None, prev=None):
        self.value = value
-       self.next = None
-       self.prev = None
+       self.next = next or None
+       self.prev = prev or None
 
 
 if __name__ == "__main__":
